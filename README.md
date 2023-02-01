@@ -1,6 +1,6 @@
 #  Setup Environment
-1. Install necessary modules
-   - npm install 
+### Install necessary modules
+      npm install 
 
 # Start the application
     npm run start
